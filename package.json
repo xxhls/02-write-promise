@@ -1,0 +1,19 @@
+{
+  "name": "02-手写Promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.28",
+    "@vue/tsconfig": "^0.5.1",
+    "typescript": "^5.4.2",
+    "vite": "^5.1.6"
+  }
+}
